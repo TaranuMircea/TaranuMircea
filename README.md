@@ -88,7 +88,7 @@ Dynamic React application focused on form logic, validation, and state managemen
   <a href="https://mirteo.ro" target="_blank">
     <img src="https://img.shields.io/badge/Website-mirteo.ro-4B0082?style=for-the-badge" />
   </a>
-  <a href="https://ro.linkedin.com/in/mircea-taranu/ro" target="_blank">
+  <a href="[https://ro.linkedin.com/in/mircea-taranu/ro](https://ro.linkedin.com/in/mircea-taranu/ro?trk=people-guest_people_search-card)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mircea_Tăranu-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
